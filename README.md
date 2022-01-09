@@ -3,9 +3,9 @@
 <h2>I'm a USMC Veteran, a Husband, and a Full Stack Developer </h2>
 
 ### About Me
-- 💻 Coding has quickly become a passion for me.
+- 💻 Coding has quickly become a passion of mine.
 - 👍I enjoy collaborating with other developers.
-- 🥅 2021 Goal: To land my first position to grow in and learn more.
+- 🥅 2022 Goal: To land my first position to grow in and learn more.
 - 👀 Im always looking for new interesting projects to work/collaborate on.
 - 🏀 I enjoy playing basketball. 
 - 📚 Knowledge is power!
